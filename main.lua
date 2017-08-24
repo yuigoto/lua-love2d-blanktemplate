@@ -133,7 +133,7 @@ function love.quit()
     print("So long, Cowboy!");
 end
 
--- KAYBOARD + MOUSE + TOUCH INPUT MONITORING
+-- KEYBOARD + MOUSE + TOUCH INPUT MONITORING
 -- ======================================================================
 
 --[[
